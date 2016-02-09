@@ -1,2 +1,6 @@
+/**
+ * Main JS File
+ *  Load the App with babel-register
+ */
 require('babel-register');
-require('./rest/api');
+require('./src/index.js');

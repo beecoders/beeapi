@@ -18,9 +18,11 @@
   "homepage": "https://github.com/beecoders/beeapi#readme",
   "devDependencies": {
     "babel-cli": "^6.5.1",
-    "babel-preset-es2015-node5": "^1.1.2"
+    "babel-preset-es2015-node5": "^1.1.2",
+    "eslint": "^1.10.3"
   },
   "dependencies": {
+    "body-parser": "^1.14.2",
     "express": "^4.13.4"
   }
 }
